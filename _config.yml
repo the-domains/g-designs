@@ -1,4 +1,20 @@
-analytics: {}
+name: G9 Designs
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.488176
+title: G9 Designs
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -8,11 +24,9 @@ color:
     - '#004E98'
   brandStrength: 0.8566078136807785
   lightness: 0.2929730489798973
-  rhythmicContrast: 0.7232427325202851
   saturation: 0.39593232210750295
-cta: {}
-layout_spectrum: 0
-name: G9 Designs
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.488176
+  rhythmicContrast: 0.7232427325202851
+purpose:
+  - name: null
+    item: null
+    url: null
