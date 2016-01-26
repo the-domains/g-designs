@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[G9 Designs]]></title>
         <description><![CDATA[G9 Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/g-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:11:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 20:11:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/g-designs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iorad - the tutorial builder]]></title>
+            <description><![CDATA[<article><h1>iorad - the tutorial builder</h1><p>Because iorad is a web app, your tutorial or solution article is instantly live on the web. No uploading involved. Instantly share the link with your users or embed it directly on your customer support site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128a61a4188e481439306e95b9bc6c2372898f67.png"></article>]]></description>
+            <link>http://www.iorad.com/</link>
+            <guid isPermaLink="false">f39eccf5-e4e3-4d6a-ba33-6120b68b21a0</guid>
+            <pubDate>Tue, 26 Jan 2016 20:10:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Publish a Post]]></title>
             <description><![CDATA[<article><h1>Publish a Post</h1><p>Uploaded by Jordy Webb on 2015-11-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a99c3884ac586a6491c0074e19c22418d5ed61.jpg"></article>]]></description>
