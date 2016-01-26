@@ -1,6 +1,6 @@
 name: G9 Designs
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25459
 typography_spectrum: 0.488176
 title: G9 Designs
 cta:
@@ -17,15 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8125
-  lightness: 0.3125
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+    - '#d3e1e7'
+    - '#4a3c55'
+    - '#33a5d7'
+    - '#00ffff'
+    - '#0000ff'
+  brandStrength: 0.125
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: null
     item: null
