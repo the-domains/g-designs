@@ -6,12 +6,12 @@ color:
     - '#33a5d7'
     - '#00ffff'
     - '#0000ff'
-  brandStrength: 0.790541
+  brandStrength: 0.134291
   lightness: 0.146115
   rhythmicContrast: 0.494088
   saturation: 0.133446
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0
 name: G9 Designs
 opengraph: {}
 purpose:
